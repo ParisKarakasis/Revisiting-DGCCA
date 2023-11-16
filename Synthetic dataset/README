@@ -1,0 +1,7 @@
+This is a demo for the paper 'Revisiting Deep Generalized Canonical Correlation Analysis' by P. A. Karakasis and N. D. Sidiropoulos.
+
+Please run the following command to run the software and see the results on the synthetic dataset.
+
+bash run_synthetic.sh
+
+
